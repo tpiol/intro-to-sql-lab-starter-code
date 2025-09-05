@@ -45,3 +45,5 @@ select * from cities where countrycode = 'BRA' and id = 211;
 
 
 -- We're counting on you, gumshoe. Find out where she's headed, send us the info, and we'll be sure to meet her at the gates with bells on.
+
+select * from cities where population 91084;
